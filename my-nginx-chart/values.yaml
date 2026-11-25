@@ -1,5 +1,5 @@
 ﻿appName: custom-nginx
-podCount: 2
+podCount: 3
 dockerImage: nginx
 imageVersion: alpine
 serviceType: ClusterIP

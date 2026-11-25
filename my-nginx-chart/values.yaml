@@ -1,0 +1,7 @@
+﻿appName: custom-nginx
+podCount: 2
+dockerImage: nginx
+imageVersion: alpine
+serviceType: ClusterIP
+servicePort: 80
+containerPort: 80
